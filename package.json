@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cucumber": "cucumber-js ./features -r ./steps"
+    "cucumber": "cucumber-js ./feature -r ./step_definations"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apickli": "latest",
     "request": "^2.83.0",
     "grunt": "latest",
     "grunt-cucumber": "latest"
