@@ -7,8 +7,10 @@ yargs
 
 ##Getting Started
 
-npm install 
+npm install.
+
 That's it!!!
+
 Simply run node app.js -a "zip-code-of-location".You will be able to see wheather of that location of which you entered Zip -code.
 
 #cucumber
